@@ -13,13 +13,7 @@
               </div>
             </div>
             <div class="column">
-              <div
-                class="content"
-              >Instant, Fair, Bet Verification, On-Blockchain, Anonymous, No-Database.</div>
-              <div class="content">
-                Made With ❤ In INDIA,
-                <a target="_blank" href="https://besoeasy.com">@besoeasy</a>
-              </div>
+              <div class="content">Instant, Fair, Bet Verification, On-Blockchain, Anonymous, No-Database.</div>
             </div>
           </div>
         </div>
